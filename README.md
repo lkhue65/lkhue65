@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm <span style="color:#fca311">hViNh12</span> 👋</h1>
+<h1 align="center">Hi, I'm <span style="color:#fca311">Minh Khuê</span> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Senior+React+Developer;Fullstack+Web+%7C+AI+Lover;UI%2FUX+Design+Enthusiast;Let's+Code+and+Build+Awesome+Stuff!" alt="Typing SVG" />
@@ -7,8 +7,8 @@
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on: `React Projects`, `AI with Python`, `Web3 apps`
-- 🌱 I’m learning: `Next.js`, `Docker`, `Microservices`
+- 🔭 I’m currently working on: `React Projects`, `..Net`, `React Projects`
+- 🌱 I’m learning: `Next.js`, `Docker`, `Microservices`,'Langchain','PhP
 - ⚡ Fun fact: I love building things from scratch and learning daily.
 
 ---
@@ -31,9 +31,8 @@
 ---
 
 ### 📫 Contact Me:
-[![Facebook](https://img.shields.io/badge/-Facebook-blue?logo=facebook&style=flat-square)](https://facebook.com/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:your_email@gmail.com)
+
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:Khueluong308@gmail.com)
 
 ---
 
