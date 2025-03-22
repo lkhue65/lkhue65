@@ -36,7 +36,8 @@
 
 ### 📫 Contact Me:
 
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&style=flat-square)](mailto:Khueluong308@gmail.com)
+[![Email](https://img.shields.io/badge/-khueluong308@gmail.com-red?logo=gmail&style=flat-square)](mailto:khueluong308@gmail.com)
+
 
 ---
 
