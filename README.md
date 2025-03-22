@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm <span style="color:#fca311">Minh Khuê</span> 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Senior+React+Developer;Fullstack+Web+%7C+AI+Lover;UI%2FUX+Design+Enthusiast;Let's+Code+and+Build+Awesome+Stuff!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Fresher+Fullstack+Developer;Web+%7C+AI+Enthusiast;UI%2FUX+Design+Learner;Let's+Code+and+Explore+Tech!" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on: `React Projects`, `..Net`, `React Projects`
-- 🌱 I’m learning: `Next.js`, `Docker`, `Microservices`,'Langchain','PhP
-- ⚡ Fun fact: I love building things from scratch and learning daily.
+- 🔭 I’m currently learning and working with: `React`, `.NET Core`, `Next.js`
+- 🌱 Expanding my knowledge in: `Docker`, `Microservices`, `Langchain`, `Hugging Face`, `PHP`
+- ⚡ Fun fact: I love building things from scratch and improving daily.
 
 ---
 
@@ -19,6 +19,10 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![Langchain](https://img.shields.io/badge/-Langchain-FFCC00?logo=chainlink&logoColor=white&style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFCC00?logo=huggingface&logoColor=white&style=for-the-badge)
 
 ---
 
